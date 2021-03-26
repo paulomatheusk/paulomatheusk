@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="left" alt="Computador iuriCode">
 
 <p align="right"> 
-  EN :gb: : Hello! I'm Paulo. I'm an IT student and a beginner in the programming world. I am also an electronic technician, 
+  EN 🇬🇧 : Hello! I'm Paulo. I'm an IT student and a beginner in the programming world. I am also an electronic technician, 
 graduated on Sao Paulo's Technical School (ETEC).<br>
-  PT :brazil: : Olá! Meu nome é Paulo, sou graduando de Sistemas de Informação (UNIP) e um iniciante no mundo da programação. Também sou técnico eletrônico formado pela Escola Técnica Estadual (ETEC) de São Paulo. 
+  PT 🇬🇧 : Olá! Meu nome é Paulo, sou graduando de Sistemas de Informação (UNIP) e um iniciante no mundo da programação. Também sou técnico eletrônico formado pela Escola Técnica Estadual (ETEC) de São Paulo. 
 </p>
 
 <p align="right">
