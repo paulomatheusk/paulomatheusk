@@ -2,7 +2,7 @@
 
 <p align="right"> 
   EN: Hello! I'm Paulo. I'm an IT student and a beginner in the programming world. I am also an electronic technician, 
-graduated on Sao Paulo's Technical School (ETEC).
+graduated at Sao Paulo's Technical School (ETEC).
   <br><br>
   PT: Olá! Meu nome é Paulo, sou graduando de Sistemas de Informação (UNIP) e um iniciante no mundo da programação. Também sou técnico eletrônico formado pela Escola Técnica Estadual (ETEC) de São Paulo. 
 </p>
