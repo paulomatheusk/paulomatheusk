@@ -1,30 +1,33 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="left" alt="Computador iuriCode">
+### Olá, meu nome é Paulo Matheus!
 
-<p align="right"> 
-  EN: Hello! I'm Paulo. I'm an IT student and a beginner in the programming world. I am also an electronic technician, 
-graduated at Sao Paulo's Technical School (ETEC).
-  <br><br>
-  PT: Olá! Meu nome é Paulo, sou graduando de Sistemas de Informação (UNIP) e um iniciante no mundo da programação. Também sou técnico eletrônico formado pela Escola Técnica Estadual (ETEC) de São Paulo. 
-</p>
+<img src="https://img.shields.io/static/v1?label=GITHUB&message=paulomatheusk&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p align="right">
-  💼 Ferramentas: <strong>Visual Studio Code, Github</strong>
-</p>
+## Sobre mim
+<p>- Analista de Suporte III na empresa Global Hitss<br>
+- Graduado em Sistemas de Informação - Universidade Paulista<br>
+- Estudante de Quality Assurance e Testing</p>
 
-<p align="right">
-  💌 If you want to talk to me about any subject, contact me below :) ⤵️
-</p>
+## Minhas Skills
+**Aplicações e dados**
 
-<p align="right">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=paulinhokinner@gmail.com" /></a>
+![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-matheus-gallo-b59230171/" /></a>
+**Ferramentas de desenvolvimento**
 
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100002359153179/"/></a>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>  
+**DevOps**
+
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## Outras Redes
+<a href="https://www.linkedin.com/in/paulo-matheus-gallo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.last.fm/user/kinneredm" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white" target="_blank"></a>
+<a href="https://open.spotify.com/user/kinner1" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
